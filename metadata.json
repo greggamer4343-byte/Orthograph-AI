@@ -1,0 +1,6 @@
+{
+  "name": "OrthographAI - Engineering Graphics Problem Solver",
+  "description": "Interactive Engineering Graphics problem solver with natural language parsing, 2D orthographic projections, 3D spatial quadrant visualization, and step-by-step construction playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
